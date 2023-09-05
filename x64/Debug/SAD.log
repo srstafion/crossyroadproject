@@ -1,0 +1,7 @@
+﻿  SAD.cpp
+C:\Users\Даниил\source\repos\SAD\SAD\SAD.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Source.cpp
+  Создание кода...
+C:\Users\Даниил\source\repos\SAD\SAD\Source.cpp(91): warning C4715: spawnCar: значение возвращается не при всех путях выполнения
+C:\Users\Даниил\source\repos\SAD\SAD\Source.cpp(76): warning C4715: keyboard: значение возвращается не при всех путях выполнения
+  SAD.vcxproj -> C:\Users\Даниил\source\repos\SAD\x64\Debug\SAD.exe
